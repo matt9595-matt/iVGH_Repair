@@ -2,7 +2,7 @@
 
 class VGHMailer
 {
-    private $to = "vghquestions@ivgh.com";
+    private $to = "";
     private $subject;
     private $message;
 
